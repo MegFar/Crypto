@@ -1,0 +1,2 @@
+# Crypto
+All about cryptocurrencies
